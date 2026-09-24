@@ -67,6 +67,7 @@ body{
 
 .parametro-titulo{
     font-family: var(--roboto-mono);
+    font-size: 28px;
 
 }
 
@@ -154,5 +155,4 @@ label{
         flex-direction: row;
     }
 }
-style.css
-Exibindo style.css.
+
